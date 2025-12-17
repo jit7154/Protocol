@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;           
+} 
+   /* This one line themes:all teaches me to read the docs of libraries you are using if you encounter any problem */
+   /* This single practice will save you a chunk of your tme in debugging */
